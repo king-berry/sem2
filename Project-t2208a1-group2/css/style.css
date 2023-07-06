@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.container-fluid{
+    background-color: grey;
+    color: white;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.nav-link:hover{
+    color:white;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid black;
+
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid black;
+    background-color: grey;
+    color: black;
+    margin-left: -35px;
+}
+.d-flex{
+    margin-bottom: 10px;
+}
+.dropdown-menu{
+    border: 1px solid black;
+}
+.main{
+    background-image: url("../../another/css/img/bach.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 400px;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: black;
+}
+.btn1{
+    height: 35px;
+    width: 25%;
+    border-radius: 60px;
+    outline: none;
+    background-color: grey;
+    color: white;
+}
+.card:hover{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    transition: 0.5s;
+}
+.final{
+    background-color: black;
+    color: white;
+}
+.final p{
+    margin: 0;
+}
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
+.qc{
+    background-image: url("image/Người đẹp vì lụa_ (4).jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 400px;
+    width: 100%;
+}
+.qc h1{
+    color: white;
+}
+.sign{
+    padding-left: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.btn2{
+    border: none;
+    background-color: grey;
+
+}
+.btn3{
+    margin-left: -15px;
+    border: none;
+    background-color: grey;
+
+}

@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-crates{
+    width: 80%;
+    margin: 50px auto;
+}
